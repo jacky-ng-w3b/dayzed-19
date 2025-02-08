@@ -1,6 +1,6 @@
 {
   "name": "@bsol-oss/dayzed-react19",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "(Copy of dayzed that accept react19) Primitives to build simple, flexible, WAI-ARIA compliant React datepicker components.",
   "main": "dist/dayzed.cjs.js",
   "jsnext:main": "dist/dayzed.esm.js",
