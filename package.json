@@ -1,12 +1,11 @@
 {
-  "name": "dayzed",
+  "name": "@bsol-oss/dayzed-react19",
   "version": "3.2.3",
-  "description": "Primitives to build simple, flexible, WAI-ARIA compliant React datepicker components.",
+  "description": "(Copy of dayzed that accept react19) Primitives to build simple, flexible, WAI-ARIA compliant React datepicker components.",
   "main": "dist/dayzed.cjs.js",
   "jsnext:main": "dist/dayzed.esm.js",
   "module": "dist/dayzed.esm.js",
   "types": "typings/dayzed.d.ts",
-  "author": "Morgan Kartchner",
   "license": "MIT",
   "scripts": {
     "contributors:add": "all-contributors add",
@@ -32,7 +31,7 @@
   ],
   "peerDependencies": {
     "prop-types": "^15",
-    "react": "^16.8 || ^17.0 || ^18.0"
+    "react": "^16.8 || ^17.0 || ^18.0 | ^19.0"
   },
   "devDependencies": {
     "@types/react-dom": "^16.9.8",
@@ -69,10 +68,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/deseretdigital/dayzed.git"
-  },
-  "bugs": {
-    "url": "https://github.com/deseretdigital/dayzed/issues"
-  },
-  "homepage": "https://github.com/deseretdigital/dayzed#readme"
+    "url": "https://github.com/jacky-ng-w3b/dayzed-19.git"
+  }
 }
