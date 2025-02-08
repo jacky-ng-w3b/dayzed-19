@@ -13,5 +13,5 @@
     "noEmit": true,
     "forceConsistentCasingInFileNames": true
   },
-  "files": ["typings/dayzed.d.ts", "typings/dayzed-tests.tsx"]
+  "files": ["typings/@bsol-oss/dayzed-react19.d.ts", "typings/dayzed-tests.tsx"]
 }

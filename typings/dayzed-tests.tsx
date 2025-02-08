@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { render } from 'react-dom';
-import Dayzed, { DateObj, useDayzed } from './dayzed';
+import Dayzed, { DateObj, useDayzed } from './@bsol-oss/dayzed-react19';
 
 interface State {
   selectedDate: Date;
