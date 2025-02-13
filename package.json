@@ -27,7 +27,7 @@
   "files": [
     "dist",
     "preact",
-    "typings/*.d.ts"
+    "typings/@bsol-oss/*.d.ts"
   ],
   "peerDependencies": {
     "prop-types": "^15",
